@@ -41,9 +41,6 @@ The data comes from Kaggle. It has 9,994 orders across 21 columns, covering sale
 - Look into why Central is underperforming and what the West is doing right.
 - Keep looking after high-value customers like Tamara Chand.
 
-## Dashboard
-![Dashboard](images/dashboard.png)
-
 ## Tools
 Microsoft Excel (Tables, PivotTables, PivotCharts, formulas)
 
